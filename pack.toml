@@ -1,0 +1,13 @@
+name = "eye-void"
+author = "it-tfarrkira"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1e9dc37818137e12632183553674c9a631c115a1ec56912e5dc44f237671be8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
