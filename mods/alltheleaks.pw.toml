@@ -3,8 +3,8 @@ filename = "alltheleaks-1.1.7+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a36da3b274d7612f3696788434cb5a717e065d70"
+hash-format = "sha512"
+hash = "fdf3c6e02fb83c08104ffbae3dffa05d29bb534b3ebf2eb068ce722f8ea2fd261d2dbb49f789cd560e0b425ba0627a356c3462cfed9c8c9c0691f322a4abd64e"
 mode = "metadata:curseforge"
 
 [update]

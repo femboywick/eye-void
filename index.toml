@@ -6,7 +6,7 @@ hash = "979085e27de404f036f9cd1d77f1c62e273778ed1613b8baf573eb6d7d6e6017"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "536b4eb5f926560a305c25704c89eb6e4926b196006997b56375d0c04b05cf4a"
+hash = "d763d33b5f66a1f34b3dbe2572ea545a8341c000457dbe62a505723deb84bab4"
 metafile = true
 
 [[files]]
@@ -131,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "012f24f066fdd75579eba908708fae48c3cebda68c438e7a32d10f4316c580fe"
+hash = "446fdcd71f126b56be138e594e7807bd5b3e44322115e7419629f30739aa501f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "540b6431e4b6f34768fc1fc197581c3a07bfde916710e4a9b16afd458e2dabb5"
+hash = "14aa6aa0ef7d3eb02e06f81c770b6c424573385d25293e5a1cb8ff18f7126577"
 metafile = true
 
 [[files]]
