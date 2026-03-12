@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "minecraft_servers"
+hash = "979085e27de404f036f9cd1d77f1c62e273778ed1613b8baf573eb6d7d6e6017"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "536b4eb5f926560a305c25704c89eb6e4926b196006997b56375d0c04b05cf4a"
 metafile = true
