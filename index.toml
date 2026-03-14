@@ -10,6 +10,11 @@ hash = "d763d33b5f66a1f34b3dbe2572ea545a8341c000457dbe62a505723deb84bab4"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
@@ -47,6 +52,16 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "0cc21d93573e2a8f2ac2744f93db54f08cba3a3129ee84c4800190a529c783e6"
+metafile = true
+
+[[files]]
+file = "mods/create-storage-neo-forge.pw.toml"
+hash = "ff5a60e1469c5ee4644f88c1725557668cdcd76150e83ab2f8aea5d365a71e53"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
@@ -105,6 +120,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
@@ -142,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]

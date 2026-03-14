@@ -1,0 +1,13 @@
+name = "Create: Storage [Neo/Forge]"
+filename = "fxntstorage-1.2.1+mc-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h6BAXuvn/versions/cb5d8Cn5/fxntstorage-1.2.1%2Bmc-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "25a5f647d448641e9141809067976cdddd792cdf0ef55f65507f02f2f003de06d2ef705d3b9a96be8d74be8f24fc5fa37811b935a7ebae3db96e4e33d65b16ed"
+
+[update]
+[update.modrinth]
+mod-id = "h6BAXuvn"
+version = "cb5d8Cn5"
