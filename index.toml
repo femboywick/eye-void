@@ -20,6 +20,11 @@ hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "760f4a922520a87f290c9b9804cd87fae557c70e6e9a8c07254cfaa7146acd33"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
 metafile = true
@@ -37,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "aa96e5d242a6b1a3d490ea00d7e2fd24e3b5d613108e9071cdaab533f312e1b5"
 metafile = true
 
 [[files]]
@@ -92,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "0577dbd0633af44ea52df1c903922bd32f5a9dda274508e7d983f7fa157a1021"
 metafile = true
 
 [[files]]
