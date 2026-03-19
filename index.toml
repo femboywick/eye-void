@@ -55,8 +55,18 @@ hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
@@ -76,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -181,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "50c18395e6546f8a38f7c0a65afde4acf86f8307699b99eceb7a1174f9257bd9"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
@@ -206,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "cb283e3af7906186ebc0b35e77bdef7b0b2bb773a18cc9c5975097c8d45eeb18"
+hash = "6f5da9dc7dcdaae1e267c5dc09d0aabe7056b3da95b7ec1e8ee15bf4445cf24c"
 metafile = true
 
 [[files]]
