@@ -1,12 +1,12 @@
 name = "eye-void"
 author = "it-tfarrkira"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "620774e1113cee504813bed338c2ce2ef86ee29f0f6ef7511953bb7a501597c8"
+hash = "64a6c26a3b55dc6500d6dbce72bb8d290cf5d02b19498e8f14716e9ada245e88"
 
 [versions]
 minecraft = "1.21.1"
