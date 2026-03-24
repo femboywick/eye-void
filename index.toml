@@ -50,6 +50,16 @@ hash = "aa96e5d242a6b1a3d490ea00d7e2fd24e3b5d613108e9071cdaab533f312e1b5"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "693cd91c93dd402b03efb5dfc76eee3ad01099b20b9a2cfdf72c26277bc7bba9"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "1363456107dacc8202a7bfcea93622fa81d04570f77d4075146b3b4bc9bbeac8"
 metafile = true
@@ -82,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/create-storage-neo-forge.pw.toml"
 hash = "ff5a60e1469c5ee4644f88c1725557668cdcd76150e83ab2f8aea5d365a71e53"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
